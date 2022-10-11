@@ -14,4 +14,6 @@ https://android.googlesource.com/platform/system/apex/+/refs/heads/master/tools/
 
     androidmk [flags] <inputFile>
 
-3) To Do  
+3)  Add this to BP file "apex_available: ["myapexapp"]"
+
+4) To Do  
