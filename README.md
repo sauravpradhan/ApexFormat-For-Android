@@ -6,12 +6,12 @@ https://android.googlesource.com/platform/system/apex/+/refs/heads/master/tools/
 
 2) Convert if project has .mk file to build to .bp file build 
 
-. build/envsetup.sh
+    . build/envsetup.sh
 
-lunch
+    lunch
 
-m androidmk
+    m androidmk
 
-androidmk [flags] <inputFile>
+    androidmk [flags] <inputFile>
 
 3) To Do  
